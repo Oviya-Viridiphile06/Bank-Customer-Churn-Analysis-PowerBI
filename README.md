@@ -40,6 +40,7 @@ This makes the report interactive and helps analyze behavioral differences clear
 
 ### Not Churned Customers
 
+
 ![Not Churned](images/not_churned_view.png)
 
 ---
@@ -120,5 +121,5 @@ This project helped me strengthen:
 
 ---
 
-### AUTHOR
+### ✍🏼 AUTHOR
 OVIYA MAHESWARI.N
